@@ -10,9 +10,10 @@ en:
           email: "Email"
           message: "Message"
           subject: "Subject"
+          phone_number: "Phone Number"
     contact_us_title: "Contact Us"
     sent_by_contact_form: "Sent by contact form from %{email}"
-    sent_by_name: "Sent by %{name} from %{email}"
+    sent_by_name: "Sent by %{name} from %{email} with Phone Number %{phone_number}"
     subject: "Contact Us message from %{email}"
     submit: "Submit"
 
